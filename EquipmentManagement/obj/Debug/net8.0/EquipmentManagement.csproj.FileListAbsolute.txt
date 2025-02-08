@@ -1,0 +1,516 @@
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\appsettings.json
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.staticwebassets.endpoints.json
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.exe
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.deps.json
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.runtimeconfig.json
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.pdb
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.csproj.AssemblyReference.cache
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.AssemblyInfoInputs.cache
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.AssemblyInfo.cs
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.csproj.CoreCompileInputs.cache
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.sourcelink.json
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\scopedcss\bundle\EquipmentManagement.styles.css
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.EquipmentManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.EquipmentManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.EquipmentManagement.props
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EquipmentManagement.props
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EquipmentManagement.props
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\Equipmen.D5A30D08.Up2Date
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\refint\EquipmentManagement.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.pdb
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.genruntimeconfig.cache
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\ref\EquipmentManagement.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Azure.Core.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Azure.Identity.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Humanizer.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.ClientModel.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.CodeDom.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Memory.Data.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Text.Json.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\GitHub\Equipment management system\equipment-management-system\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\appsettings.json
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.staticwebassets.endpoints.json
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.exe
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.deps.json
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.runtimeconfig.json
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.pdb
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Azure.Core.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Azure.Identity.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Humanizer.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.ClientModel.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.CodeDom.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Memory.Data.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Text.Json.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.csproj.AssemblyReference.cache
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.AssemblyInfoInputs.cache
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.AssemblyInfo.cs
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.csproj.CoreCompileInputs.cache
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\scopedcss\bundle\EquipmentManagement.styles.css
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.EquipmentManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.EquipmentManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.EquipmentManagement.props
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EquipmentManagement.props
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EquipmentManagement.props
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\Equipmen.D5A30D08.Up2Date
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\refint\EquipmentManagement.dll
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.pdb
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.genruntimeconfig.cache
+C:\GitHub\EquipmentManagementSystem\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\ref\EquipmentManagement.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\appsettings.json
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.staticwebassets.endpoints.json
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.exe
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.deps.json
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.runtimeconfig.json
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\EquipmentManagement.pdb
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Azure.Core.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Azure.Identity.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Humanizer.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.ClientModel.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.CodeDom.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Memory.Data.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Text.Json.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.csproj.AssemblyReference.cache
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.AssemblyInfoInputs.cache
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.AssemblyInfo.cs
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.csproj.CoreCompileInputs.cache
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\scopedcss\bundle\EquipmentManagement.styles.css
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.EquipmentManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.EquipmentManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.EquipmentManagement.props
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EquipmentManagement.props
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EquipmentManagement.props
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\Equipmen.D5A30D08.Up2Date
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\refint\EquipmentManagement.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.pdb
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.genruntimeconfig.cache
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\ref\EquipmentManagement.dll
