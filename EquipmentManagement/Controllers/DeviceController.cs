@@ -1,11 +1,13 @@
 ﻿using EquipmentManagement.Models;
 using EquipmentManagement.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EquipmentManagement.Controllers
 {
     [Route("api/devices")]
     [ApiController]
+    [Authorize(Roles = "Admin,User")]
     public class DeviceController : ControllerBase
     {
         private readonly IDeviceRepository _repository;

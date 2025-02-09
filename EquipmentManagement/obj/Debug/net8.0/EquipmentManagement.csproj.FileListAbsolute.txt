@@ -507,10 +507,16 @@ C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebasse
 C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EquipmentManagement.props
 C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EquipmentManagement.props
 C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.pack.json
-C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\Equipmen.D5A30D08.Up2Date
 C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.dll
 C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\refint\EquipmentManagement.dll
 C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.pdb
 C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.genruntimeconfig.cache
 C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\ref\EquipmentManagement.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\EquipmentManagement.sourcelink.json
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

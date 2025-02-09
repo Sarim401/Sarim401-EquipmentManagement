@@ -8,5 +8,8 @@
         public string Category { get; set; } = string.Empty;
         public bool IsAvailable { get; set; } = true;
         public DateTime PurchaseDate { get; set; }
+
+        public string? UserId { get; set; }
+        public User? User { get; set; }
     }
 }
