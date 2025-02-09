@@ -6,6 +6,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EquipmentManagement.Controllers
 {
@@ -23,6 +24,22 @@ namespace EquipmentManagement.Controllers
             _signInManager = signInManager;
             _jwtSettings = jwtSettings.Value;
         }
+
+        [HttpGet("roles")]
+        public async Task<IActionResult> GetUserRoles()
+        {
+            var user = await _userManager.GetUserAsync(User);
+            if (user == null)
+            {
+                return Unauthorized("User not found");
+            }
+            Console.WriteLine($"User roles: {string.Join(", ", await _userManager.GetRolesAsync(user))}");
+
+            var roles = await _userManager.GetRolesAsync(user);
+            return Ok(roles);
+        }
+
+
 
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] RegisterModel model)
@@ -64,24 +81,25 @@ namespace EquipmentManagement.Controllers
                 return Unauthorized("Invalid credentials");
             }
 
-            var claims = new List<Claim>
-    {
-        new Claim(JwtRegisteredClaimNames.Sub, user.Id),
-        new Claim(JwtRegisteredClaimNames.Email, user.Email),
-        new Claim("fullName", user.FullName)
-    };
+            var roles = await _userManager.GetRolesAsync(user);
 
-            var userRoles = await _userManager.GetRolesAsync(user);
-            foreach (var role in userRoles)
+            var claims = new List<Claim>
+        {
+            new Claim(JwtRegisteredClaimNames.Sub, user.Id),
+            new Claim(JwtRegisteredClaimNames.Email, user.Email),
+            new Claim(ClaimTypes.Name, user.UserName)
+        };
+
+            foreach (var role in roles)
             {
                 claims.Add(new Claim(ClaimTypes.Role, role));
             }
 
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("TwojBardzoTajnyKluczJWT2025@1234567890!"));
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.Secret));
             var credentials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
             var token = new JwtSecurityToken(
-                issuer: "https://localhost:5001",
-                audience: "https://localhost:5001",
+                issuer: _jwtSettings.Issuer,
+                audience: _jwtSettings.Audience,
                 claims: claims,
                 expires: DateTime.UtcNow.AddHours(2),
                 signingCredentials: credentials
@@ -91,8 +109,8 @@ namespace EquipmentManagement.Controllers
         }
 
 
-
     }
+
 
     public class RegisterModel
     {

@@ -2,12 +2,13 @@
 using EquipmentManagement.Repositories;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.OpenApi.Models;
+
 
 namespace EquipmentManagement.Controllers
 {
     [Route("api/devices")]
     [ApiController]
-    [Authorize(Roles = "Admin,User")]
     public class DeviceController : ControllerBase
     {
         private readonly IDeviceRepository _repository;
@@ -17,9 +18,21 @@ namespace EquipmentManagement.Controllers
             _repository = repository;
         }
 
+        [Authorize]
         [HttpGet]
-        public async Task<IActionResult> GetAll() =>
-            Ok(await _repository.GetAllAsync());
+        public async Task<IActionResult> GetAll()
+        {
+            var token = Request.Headers["Authorization"].ToString();
+            Console.WriteLine($"Token: {token}");
+            if (!User.Identity.IsAuthenticated)
+            {
+                return Unauthorized("Not authenticated");
+            }
+
+            var devices = await _repository.GetAllAsync();
+            return Ok(devices);
+        }
+
 
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
@@ -50,4 +63,6 @@ namespace EquipmentManagement.Controllers
             return NoContent();
         }
     }
+
+
 }

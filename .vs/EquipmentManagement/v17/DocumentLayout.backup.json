@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\GitHub\\EquipmentManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|c:\\github\\equipmentmanagement\\equipmentmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|solutionrelative:equipmentmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|c:\\github\\equipmentmanagement\\equipmentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|solutionrelative:equipmentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|c:\\github\\equipmentmanagement\\equipmentmanagement\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|solutionrelative:equipmentmanagement\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|c:\\github\\equipmentmanagement\\equipmentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|solutionrelative:equipmentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|c:\\github\\equipmentmanagement\\equipmentmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|solutionrelative:equipmentmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|c:\\github\\equipmentmanagement\\equipmentmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,14 +47,6 @@
       "RelativeMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|solutionrelative:equipmentmanagement\\services\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|c:\\github\\equipmentmanagement\\equipmentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|solutionrelative:equipmentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|c:\\github\\equipmentmanagement\\equipmentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|solutionrelative:equipmentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|c:\\github\\equipmentmanagement\\equipmentmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{79CC337E-6657-4B7F-8F93-9F09F18508B5}|EquipmentManagement\\EquipmentManagement.csproj|solutionrelative:equipmentmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -62,33 +62,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IDeviceRepository.cs",
-              "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Repositories\\IDeviceRepository.cs",
-              "RelativeDocumentMoniker": "EquipmentManagement\\Repositories\\IDeviceRepository.cs",
-              "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Repositories\\IDeviceRepository.cs",
-              "RelativeToolTip": "EquipmentManagement\\Repositories\\IDeviceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T14:39:14.554Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EquipmentManagement\\Models\\User.cs",
+              "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Models\\User.cs",
+              "RelativeToolTip": "EquipmentManagement\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:04:29.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DeviceRepository.cs",
               "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Repositories\\DeviceRepository.cs",
               "RelativeDocumentMoniker": "EquipmentManagement\\Repositories\\DeviceRepository.cs",
               "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Repositories\\DeviceRepository.cs",
               "RelativeToolTip": "EquipmentManagement\\Repositories\\DeviceRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T14:31:11.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T14:31:11.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "EquipmentManagement\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "EquipmentManagement\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:36:21.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "EquipmentManagement\\Models\\Device.cs",
+              "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Models\\Device.cs",
+              "RelativeToolTip": "EquipmentManagement\\Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:00:46.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EquipmentManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EquipmentManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:05:28.744Z"
             },
             {
               "$type": "Document",
@@ -98,79 +136,38 @@
               "RelativeDocumentMoniker": "EquipmentManagement\\Controllers\\DeviceController.cs",
               "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Controllers\\DeviceController.cs",
               "RelativeToolTip": "EquipmentManagement\\Controllers\\DeviceController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T13:57:05.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "JwtSettings.cs",
-              "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Models\\JwtSettings.cs",
-              "RelativeDocumentMoniker": "EquipmentManagement\\Models\\JwtSettings.cs",
-              "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Models\\JwtSettings.cs",
-              "RelativeToolTip": "EquipmentManagement\\Models\\JwtSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T13:36:21.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Models\\User.cs",
-              "RelativeDocumentMoniker": "EquipmentManagement\\Models\\User.cs",
-              "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Models\\User.cs",
-              "RelativeToolTip": "EquipmentManagement\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T13:04:29.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T13:57:05.663Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Device.cs",
-              "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Models\\Device.cs",
-              "RelativeDocumentMoniker": "EquipmentManagement\\Models\\Device.cs",
-              "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Models\\Device.cs",
-              "RelativeToolTip": "EquipmentManagement\\Models\\Device.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T13:00:46.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "EquipmentManagement\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "EquipmentManagement\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T13:05:28.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "EquipmentManagement\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Controllers\\AuthController.cs",
               "RelativeToolTip": "EquipmentManagement\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAcwIMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T13:28:32.643Z",
+              "WhenOpened": "2025-02-09T13:28:32.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EquipmentManagement\\Program.cs",
+              "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Program.cs",
+              "RelativeToolTip": "EquipmentManagement\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAE8AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:17:15.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\appsettings.json",
               "RelativeDocumentMoniker": "EquipmentManagement\\appsettings.json",
@@ -178,34 +175,31 @@
               "RelativeToolTip": "EquipmentManagement\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-09T13:31:36.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T13:31:36.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDeviceRepository.cs",
+              "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Repositories\\IDeviceRepository.cs",
+              "RelativeDocumentMoniker": "EquipmentManagement\\Repositories\\IDeviceRepository.cs",
+              "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Repositories\\IDeviceRepository.cs",
+              "RelativeToolTip": "EquipmentManagement\\Repositories\\IDeviceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:39:14.554Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Program.cs",
-              "RelativeDocumentMoniker": "EquipmentManagement\\Program.cs",
-              "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Program.cs",
-              "RelativeToolTip": "EquipmentManagement\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAwwC8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T13:17:15.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "RoleInitializer.cs",
               "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Services\\RoleInitializer.cs",
               "RelativeDocumentMoniker": "EquipmentManagement\\Services\\RoleInitializer.cs",
               "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\Services\\RoleInitializer.cs",
               "RelativeToolTip": "EquipmentManagement\\Services\\RoleInitializer.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T13:55:03.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T13:55:03.122Z"
             },
             {
               "$type": "Document",
@@ -217,25 +211,19 @@
               "RelativeToolTip": "EquipmentManagement\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-09T13:44:32.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-02-09T13:44:32.192Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "EquipmentManagement",
+              "Title": "EquipmentManagement.csproj",
               "DocumentMoniker": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\EquipmentManagement.csproj",
               "RelativeDocumentMoniker": "EquipmentManagement\\EquipmentManagement.csproj",
               "ToolTip": "C:\\GitHub\\EquipmentManagement\\EquipmentManagement\\EquipmentManagement.csproj",
               "RelativeToolTip": "EquipmentManagement\\EquipmentManagement.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-09T13:03:05.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T13:03:05.687Z"
             }
           ]
         }

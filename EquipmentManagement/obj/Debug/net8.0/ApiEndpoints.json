@@ -32,6 +32,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "EquipmentManagement.Controllers.AuthController",
+    "Method": "GetUserRoles",
+    "RelativePath": "api/auth/roles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "EquipmentManagement.Controllers.DeviceController",
     "Method": "GetAll",
     "RelativePath": "api/devices",
