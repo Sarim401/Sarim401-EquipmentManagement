@@ -9,6 +9,7 @@ namespace EquipmentManagement.Controllers
 {
     [Route("api/devices")]
     [ApiController]
+    [Authorize]
     public class DeviceController : ControllerBase
     {
         private readonly IDeviceRepository _repository;
@@ -18,7 +19,6 @@ namespace EquipmentManagement.Controllers
             _repository = repository;
         }
 
-        [Authorize]
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {

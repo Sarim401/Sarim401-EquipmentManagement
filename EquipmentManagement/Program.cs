@@ -1,13 +1,14 @@
 using EquipmentManagement.Data;
 using EquipmentManagement.Models;
 using EquipmentManagement.Repositories;
-using EquipmentManagement.Helpers;
+using EquipmentManagement.Services; // Zmiana na Services
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Microsoft.OpenApi.Models;
+using EquipmentManagement.Helpers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,7 +26,7 @@ builder.Services.AddSwaggerGen(options =>
         Scheme = "Bearer",
         BearerFormat = "JWT",
         In = ParameterLocation.Header,
-        Description = "WprowadŸ 'Bearer' [spacja] i nastêpnie swój token JWT.\nPrzyk³ad: \"Bearer eyJhbGciOiJI...\""
+        Description = "Type Bearer and then token"
     });
     options.AddSecurityRequirement(new OpenApiSecurityRequirement
     {
@@ -83,7 +84,14 @@ builder.Services.AddAuthentication(x =>
 
 builder.Services.AddAuthorization();
 
+// Rejestracja IJwtService zamiast JwtService
+builder.Services.AddScoped<IJwtService, JwtService>();
+
+
+// Rejestracja repozytoriów
 builder.Services.AddScoped<IDeviceRepository, DeviceRepository>();
+
+// Konfiguracja JwtSettings
 builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("JwtSettings"));
 
 var app = builder.Build();
@@ -95,13 +103,11 @@ using (var scope = app.Services.CreateScope())
     await RoleInitializer.InitializeRoles(services, userManager);
 }
 
-
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
 
 app.UseHttpsRedirection();
 app.UseAuthentication();
@@ -114,6 +120,5 @@ app.MapControllers().AddEndpointFilter(async (context, next) =>
 
     return await next(context);
 });
-
 
 app.Run();

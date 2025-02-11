@@ -5,18 +5,6 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/auth/roles": {
-      "get": {
-        "tags": [
-          "Auth"
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
     "/api/auth/register": {
       "post": {
         "tags": [
@@ -357,7 +345,7 @@
     "securitySchemes": {
       "Bearer": {
         "type": "apiKey",
-        "description": "Wprowadź 'Bearer' [spacja] i następnie swój token JWT.\nPrzykład: \"Bearer eyJhbGciOiJI...\"",
+        "description": "Type Bearer and then token",
         "name": "Authorization",
         "in": "header"
       }

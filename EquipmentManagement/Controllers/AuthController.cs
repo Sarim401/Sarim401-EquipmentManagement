@@ -2,11 +2,8 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
-using System.IdentityModel.Tokens.Jwt;
-using System.Security.Claims;
-using System.Text;
-using Microsoft.IdentityModel.Tokens;
-using Microsoft.AspNetCore.Authorization;
+using EquipmentManagement.Helpers;
+using EquipmentManagement.Services;
 
 namespace EquipmentManagement.Controllers
 {
@@ -16,30 +13,14 @@ namespace EquipmentManagement.Controllers
     {
         private readonly UserManager<User> _userManager;
         private readonly SignInManager<User> _signInManager;
-        private readonly JwtSettings _jwtSettings;
+        private readonly IJwtService _jwtService; // Zmiana na interfejs
 
-        public AuthController(UserManager<User> userManager, SignInManager<User> signInManager, IOptions<JwtSettings> jwtSettings)
+        public AuthController(UserManager<User> userManager, SignInManager<User> signInManager, IJwtService jwtService)
         {
             _userManager = userManager;
             _signInManager = signInManager;
-            _jwtSettings = jwtSettings.Value;
+            _jwtService = jwtService;
         }
-
-        [HttpGet("roles")]
-        public async Task<IActionResult> GetUserRoles()
-        {
-            var user = await _userManager.GetUserAsync(User);
-            if (user == null)
-            {
-                return Unauthorized("User not found");
-            }
-            Console.WriteLine($"User roles: {string.Join(", ", await _userManager.GetRolesAsync(user))}");
-
-            var roles = await _userManager.GetRolesAsync(user);
-            return Ok(roles);
-        }
-
-
 
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] RegisterModel model)
@@ -83,47 +64,10 @@ namespace EquipmentManagement.Controllers
 
             var roles = await _userManager.GetRolesAsync(user);
 
-            var claims = new List<Claim>
-        {
-            new Claim(JwtRegisteredClaimNames.Sub, user.Id),
-            new Claim(JwtRegisteredClaimNames.Email, user.Email),
-            new Claim(ClaimTypes.Name, user.UserName)
-        };
+            // Use JwtService to generate the token
+            var token = _jwtService.GenerateToken(user.Id, user.UserName, user.Email, roles.ToList());
 
-            foreach (var role in roles)
-            {
-                claims.Add(new Claim(ClaimTypes.Role, role));
-            }
-
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.Secret));
-            var credentials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
-            var token = new JwtSecurityToken(
-                issuer: _jwtSettings.Issuer,
-                audience: _jwtSettings.Audience,
-                claims: claims,
-                expires: DateTime.UtcNow.AddHours(2),
-                signingCredentials: credentials
-            );
-
-            return Ok(new { Token = new JwtSecurityTokenHandler().WriteToken(token) });
+            return Ok(new { Token = token });
         }
-
-
-    }
-
-
-    public class RegisterModel
-    {
-        public string UserName { get; set; }
-        public string Email { get; set; }
-        public string Password { get; set; }
-        public string Role { get; set; }
-    }
-
-
-    public class LoginModel
-    {
-        public string Email { get; set; } = string.Empty;
-        public string Password { get; set; } = string.Empty;
     }
 }

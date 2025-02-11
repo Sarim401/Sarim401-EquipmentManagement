@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "model",
-        "Type": "EquipmentManagement.Controllers.LoginModel",
+        "Type": "EquipmentManagement.Models.LoginModel",
         "IsRequired": true
       }
     ],
@@ -25,20 +25,10 @@
     "Parameters": [
       {
         "Name": "model",
-        "Type": "EquipmentManagement.Controllers.RegisterModel",
+        "Type": "EquipmentManagement.Models.RegisterModel",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "EquipmentManagement.Controllers.AuthController",
-    "Method": "GetUserRoles",
-    "RelativePath": "api/auth/roles",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
     "ReturnTypes": []
   },
   {
