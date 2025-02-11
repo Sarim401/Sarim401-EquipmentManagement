@@ -6,5 +6,7 @@ namespace EquipmentManagement.Models
     {
         public string FullName { get; set; } = string.Empty;
         public ICollection<Device> Devices { get; set; } = new List<Device>();
+        public string RefreshToken { get; set; } = string.Empty;
+        public DateTime RefreshTokenExpiration { get; set; }
     }
 }

@@ -5,6 +5,7 @@ using Microsoft.Extensions.Options;
 using EquipmentManagement.Helpers;
 using EquipmentManagement.Services;
 
+
 namespace EquipmentManagement.Controllers
 {
     [Route("api/auth")]
@@ -64,10 +65,40 @@ namespace EquipmentManagement.Controllers
 
             var roles = await _userManager.GetRolesAsync(user);
 
-            // Use JwtService to generate the token
             var token = _jwtService.GenerateToken(user.Id, user.UserName, user.Email, roles.ToList());
 
-            return Ok(new { Token = token });
+            var refreshToken = _jwtService.GenerateRefreshToken();
+
+            user.RefreshToken = refreshToken;
+            user.RefreshTokenExpiration = DateTime.Now.AddDays(7);
+            await _userManager.UpdateAsync(user);
+
+            return Ok(new { Token = token, RefreshToken = refreshToken });
         }
+
+
+        [HttpPost("refresh-token")]
+        public async Task<IActionResult> RefreshToken([FromBody] RefreshTokenRequest request)
+        {
+            var user = await _userManager.FindByIdAsync(request.UserId);
+            if (user == null || user.RefreshToken != request.RefreshToken || user.RefreshTokenExpiration <= DateTime.Now)
+            {
+                
+                return Unauthorized(new { message = "Invalid refresh token" });
+            }
+
+            var roles = await _userManager.GetRolesAsync(user);
+            var token = _jwtService.GenerateToken(user.Id, user.UserName, user.Email, roles.ToList());
+
+            var newRefreshToken = _jwtService.GenerateRefreshToken();
+
+            user.RefreshToken = newRefreshToken;
+            user.RefreshTokenExpiration = DateTime.Now.AddDays(7);
+            await _userManager.UpdateAsync(user);
+
+            return Ok(new { Token = token, RefreshToken = newRefreshToken });
+        }
+
+
     }
 }

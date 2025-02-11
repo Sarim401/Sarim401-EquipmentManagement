@@ -819,4 +819,3 @@ C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\xunit.core.dl
 C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\xunit.execution.dotnet.dll
 C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\MvcTestingAppManifest.json
 C:\GitHub\EquipmentManagement\EquipmentManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\GitHub\EquipmentManagement\EquipmentManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
