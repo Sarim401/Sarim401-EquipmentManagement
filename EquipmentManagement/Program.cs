@@ -1,7 +1,7 @@
 using EquipmentManagement.Data;
 using EquipmentManagement.Models;
 using EquipmentManagement.Repositories;
-using EquipmentManagement.Services; // Zmiana na Services
+using EquipmentManagement.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -88,11 +88,22 @@ builder.Services.AddAuthorization();
 builder.Services.AddScoped<IJwtService, JwtService>();
 
 
-// Rejestracja repozytoriów
+// Rejestracja repozytoriï¿½w
 builder.Services.AddScoped<IDeviceRepository, DeviceRepository>();
 
 // Konfiguracja JwtSettings
 builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("JwtSettings"));
+
+// Konfiguracja CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowSpecificOrigin", policy =>
+    {
+        policy.WithOrigins("http://localhost:3000")  // Podaj adres frontendu
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
 
 var app = builder.Build();
 
@@ -110,6 +121,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseCors("AllowSpecificOrigin");
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers().AddEndpointFilter(async (context, next) =>
