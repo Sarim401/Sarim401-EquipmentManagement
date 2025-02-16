@@ -11,8 +11,12 @@ const Login = () => {
 
   const loginMutation = useMutation({
     mutationFn: async () => {
-      const data = await login(email, password);
-      return data;
+      try {
+        const data = await login(email, password);
+        return data;
+      } catch (error) {
+        throw new Error('Błąd logowania');
+      }
     },
     onSuccess: () => {
       console.log('Zalogowano pomyślnie');
@@ -48,8 +52,8 @@ const Login = () => {
         <button type="submit" disabled={loginMutation.isLoading}>Zaloguj</button>
       </form>
 
-      {error && <p style={{ color: 'red' }}>{error}</p>} {}
-      {loginMutation.isLoading && <p>Trwa logowanie...</p>} {}
+      {error && <p style={{ color: 'red' }}>{error}</p>}
+      {loginMutation.isLoading && <p>Trwa logowanie...</p>}
     </div>
   );
 };

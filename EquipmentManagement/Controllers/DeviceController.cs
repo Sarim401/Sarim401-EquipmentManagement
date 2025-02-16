@@ -22,13 +22,6 @@ namespace EquipmentManagement.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            var token = Request.Headers["Authorization"].ToString();
-            Console.WriteLine($"Token: {token}");
-            if (!User.Identity.IsAuthenticated)
-            {
-                return Unauthorized("Not authenticated");
-            }
-
             var devices = await _repository.GetAllAsync();
             return Ok(devices);
         }

@@ -14,7 +14,7 @@ namespace EquipmentManagement.Controllers
     {
         private readonly UserManager<User> _userManager;
         private readonly SignInManager<User> _signInManager;
-        private readonly IJwtService _jwtService; // Zmiana na interfejs
+        private readonly IJwtService _jwtService;
 
         public AuthController(UserManager<User> userManager, SignInManager<User> signInManager, IJwtService jwtService)
         {
