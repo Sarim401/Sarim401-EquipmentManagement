@@ -4,6 +4,7 @@ import Login from './pages/login';
 import Dashboard from './pages/Dashboard';
 import Register from './pages/Register';
 import { isAuthenticated } from './services/authService';
+import AdminDashboard from './pages/AdminDashboard';
 
 const App = () => {
   const navigate = useNavigate();
@@ -13,13 +14,11 @@ const App = () => {
       const authenticated = await isAuthenticated();
       const path = window.location.pathname;
 
-      // Jeśli użytkownik jest zalogowany, nie pozwól mu przejść do logowania i rejestracji
       if (authenticated) {
         if (path === '/login' || path === '/register') {
           navigate('/dashboard'); // Jeśli zalogowany, przekieruj na dashboard
         }
       } else {
-        // Jeśli użytkownik nie jest zalogowany, blokuj dostęp do innych stron poza login i register
         if (path !== '/login' && path !== '/register') {
           navigate('/login'); // Jeśli niezalogowany, przekieruj na login
         }
@@ -34,6 +33,7 @@ const App = () => {
       <Route path="/register" element={<Register />} />
       <Route path="/login" element={<Login />} />
       <Route path="/dashboard" element={<Dashboard />} />
+      <Route path="/admin-dashboard" element={<AdminDashboard />} />
     </Routes>
   );
 };

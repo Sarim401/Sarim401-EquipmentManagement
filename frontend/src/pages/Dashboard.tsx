@@ -9,10 +9,15 @@ const Dashboard = () => {
   useEffect(() => {
     const checkAuth = async () => {
       const authenticated = await isAuthenticated();
-      if (!authenticated) {
+      const role = localStorage.getItem('role');  // Pobieranie roli z localStorage
+      if (!authenticated || !role) {
         navigate('/login');
       } else {
-        setUser('Zalogowany użytkownik');
+        if (role === 'Admin') {
+          navigate('/admin-dashboard');  // Jeśli rola to admin, przekieruj na AdminDashboard
+        } else {
+          setUser('Zalogowany użytkownik');
+        }
       }
     };
 

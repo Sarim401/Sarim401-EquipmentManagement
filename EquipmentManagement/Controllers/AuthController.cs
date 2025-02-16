@@ -98,7 +98,5 @@ namespace EquipmentManagement.Controllers
 
             return Ok(new { Token = token, RefreshToken = newRefreshToken });
         }
-
-
     }
 }

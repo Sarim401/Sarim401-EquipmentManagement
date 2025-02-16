@@ -11,22 +11,28 @@ export const login = async (email: string, password: string) => {
 
     const decoded: any = jwtDecode(data.token);
     const userId = decoded?.["http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier"];
+    const role = decoded?.["http://schemas.microsoft.com/ws/2008/06/identity/claims/role"];  // Pobieranie roli użytkownika
     if (userId) {
       localStorage.setItem('userId', userId); 
+    }
+    if (role) {
+      localStorage.setItem('role', role);
     }
 
     document.cookie = `refreshToken=${data.refreshToken}; Path=/;`;
     return data;
   } catch (error) {
     console.error('Błąd logowania', error);
-    throw error;  // Re-throw the error to propagate it further up
+    throw error;
   }
 };
+
 
 export const logout = (navigate: ReturnType<typeof useNavigate>) => {
   try {
     localStorage.removeItem('token');
     localStorage.removeItem('userId');
+    localStorage.removeItem('role');
     document.cookie = 'refreshToken=; Max-Age=0; Path=/;';
     navigate('/login');
   } catch (error) {

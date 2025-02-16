@@ -20,7 +20,12 @@ const Login = () => {
     },
     onSuccess: () => {
       console.log('Zalogowano pomyślnie');
-      navigate('/dashboard');
+      const role = localStorage.getItem('role');  // Pobieramy rolę po zalogowaniu
+      if (role === 'Admin') {
+        navigate('/admin-dashboard');  // Przekierowanie na panel admina
+      } else {
+        navigate('/dashboard');  // Zwykły dashboard dla użytkownika
+      }
     },
     onError: (error: any) => {
       console.error('Błąd logowania', error);
